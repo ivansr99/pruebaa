@@ -1,0 +1,5 @@
+@startuml
+class clashroyale.Clashroyale
+class java.util.Scanner
+clashroyale.Clashroyale ..> java.util.Scanner
+@enduml
